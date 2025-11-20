@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"RETURN_V",
+				"RETURN_VALUE_PATH"
+			],
+			[
+				"get",
+				"getSchematic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitmodules",
+			"redo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "w"
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"OUTLIN",
+				"Browse Mode: Outline (Right)"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/css3-selectors.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/extendFunction.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-location.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/dom.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/p.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/util.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/src/predicate.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/include/predicate.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-predicate.c",
+		"/home/roman/Projects/an-tronics/eagle/Pink-Noise-Filter.brd",
+		"/home/roman/Projects/an-tronics/eagle/Pink-Noise-Filter.sch",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-misc.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/xml-shell.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/deep.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/CMakeLists.txt",
+		"/home/janos/Projects/plot-cv/lib/async/events.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/repl.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/lib/testharness.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_path.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/tinytest.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/libbcrypt/Makefile",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/include/virtual-properties.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/libbcrypt/crypt_blowfish/x86.S",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/src/virtual-properties.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/src/pointer.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/include/pointer.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/src/property-enumeration.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-pointer.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-pointer.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-predicate.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/include/property-enumeration.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-deep.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/libbcrypt/crypt_blowfish/crypt_blowfish.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/include/path.h",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/quickjs-child-process.c",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_qjsm.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_lexer.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_mysql.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_misc.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_blob.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/tests/test_pgsql.js",
+		"/home/janos/Projects/plot-cv/quickjs/qjs-modules/modules.sublime-project"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitmodules",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "./",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"function_name_status_row": 0,
+							"syntax": "Packages/Git Formats/Git Config.sublime-syntax",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1763678870.17,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build all",
+	"project": "qjs-rgfw.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ast-sh",
+				"ast-shell.js"
+			],
+			[
+				"clang-a",
+				"clang-ast.js"
+			],
+			[
+				"clang-",
+				"clang-list.js"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"cmakelis",
+				"CMakeLists.txt"
+			],
+			[
+				"quickjs-ar",
+				"quickjs-archive.c"
+			],
+			[
+				"dom.js",
+				"lib/dom.js"
+			],
+			[
+				"p.js",
+				"p.js"
+			],
+			[
+				"css-",
+				"lib/css3-selectors.js"
+			],
+			[
+				"dom",
+				"lib/dom.js"
+			],
+			[
+				"util",
+				"lib/util.js"
+			],
+			[
+				"util.js",
+				"lib/util.js"
+			],
+			[
+				"predicate.c",
+				"src/predicate.c"
+			],
+			[
+				"predicate.h",
+				"include/predicate.h"
+			],
+			[
+				"quickjs-pre",
+				"quickjs-predicate.c"
+			],
+			[
+				"css3-se",
+				"lib/css3-selectors.js"
+			],
+			[
+				"deep.js",
+				"lib/deep.js"
+			],
+			[
+				"quickjs-mis",
+				"quickjs-misc.c"
+			],
+			[
+				"xml-s",
+				"xml-shell.js"
+			],
+			[
+				"repl.js",
+				"lib/repl.js"
+			],
+			[
+				"tinytest",
+				"tests/tinytest.js"
+			],
+			[
+				"cmakelists",
+				"CMakeLists.txt"
+			],
+			[
+				"test_mis",
+				"tests/test_misc.js"
+			],
+			[
+				"test_path",
+				"tests/test_path.js"
+			],
+			[
+				"test_bl",
+				"tests/test_blob.js"
+			],
+			[
+				"deep.c",
+				"quickjs-deep.c"
+			],
+			[
+				"svg-cr",
+				"svg-crop-pad.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 276.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"f"
+			]
+		],
+		"width": 618.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
