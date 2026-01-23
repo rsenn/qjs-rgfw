@@ -81,6 +81,7 @@
 	},
 	"expanded_folders":
 	[
+		"/home/janos/Projects/plot-cv/quickjs/qjs-rgfw"
 	],
 	"file_history":
 	[
@@ -178,8 +179,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								78,
+								78
 							]
 						],
 						"settings":
@@ -195,10 +196,10 @@
 									"selector": "punctuation.accessor"
 								}
 							],
-							"function_name_status_row": 0,
+							"function_name_status_row": 3,
 							"syntax": "Packages/Git Formats/Git Config.sublime-syntax",
 							"tab_size": 2,
-							"tabs_extra_last_activated": 1763678870.17,
+							"tabs_extra_last_activated": 1763695025.92,
 							"tabs_extra_last_activated_sheet_index": 0,
 							"translate_tabs_to_spaces": false
 						},
