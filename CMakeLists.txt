@@ -32,8 +32,7 @@ set_target_properties(
 
 target_include_directories(qjs-rgfw PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/rgfw/src
                                               ${QUICKJS_INCLUDE_DIR})
-target_link_libraries(qjs-rgfw PRIVATE #${GLFW_LIBRARY}
-                                         ${GLEW_LIBRARY} OpenGL::GL ${QUICKJS_LIBRARY})
+target_link_libraries(qjs-rgfw PRIVATE Xrandr OpenGL::GL ${QUICKJS_LIBRARY})
 target_compile_definitions(qjs-rgfw PRIVATE JS_SHARED_LIBRARY=1 )
 
 if(NOT CMAKE_INSTALL_LIBDIR)
