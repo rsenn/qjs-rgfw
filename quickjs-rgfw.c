@@ -135,7 +135,7 @@ js_rgfw_init(JSContext* ctx, JSModuleDef* m) {
   JS_SetClassProto(ctx, js_window_class_id, window_proto);
 
   if(m) {
-    JS_SetModuleExport(ctx, m, "Stream", window_ctor);
+    JS_SetModuleExport(ctx, m, "window", window_ctor);
     JS_SetModuleExportList(ctx, m, js_rgfw_funcs, countof(js_rgfw_funcs));
   }
 
@@ -144,7 +144,7 @@ js_rgfw_init(JSContext* ctx, JSModuleDef* m) {
 
 void
 js_init_module_rgfw(JSContext* ctx, JSModuleDef* m) {
-  JS_AddModuleExport(ctx, m, "Stream");
+  JS_AddModuleExport(ctx, m, "window");
 }
 
 __attribute__((visibility("default"))) JSModuleDef*
