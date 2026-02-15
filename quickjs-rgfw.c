@@ -22,7 +22,33 @@ js_rgfw_function(
 static JSValue
 js_window_constructor(JSContext* ctx, JSValueConst new_target, int argc, JSValueConst argv[]) {
   JSValue proto, obj = JS_UNDEFINED;
-  RGFW_window* w = NULL;
+  RGFW_window* win = NULL;
+
+  if(!(win = js_mallocz(ctx, sizeof(RGFW_window))))
+    return JS_EXCEPTION;
+
+  if(argc > 0) {
+    const char* name = JS_ToCString(ctx, argv[0]);
+    int32_t x, y, w, h;
+    uint32_t flags = 0;
+
+    if(argc > 1)
+      JS_ToInt32(ctx, &x, argv[1]);
+    if(argc > 2)
+      JS_ToInt32(ctx, &y, argv[2]);
+    if(argc > 3)
+      JS_ToInt32(ctx, &w, argv[3]);
+    if(argc > 4)
+      JS_ToInt32(ctx, &h, argv[4]);
+
+    if(argc > 5)
+      JS_ToUint32(ctx, &flags, argv[5]);
+
+    RGFW_createWindowPtr(name, x, y, w, h, flags, win);
+  } else {
+    JS_ThrowInternalError(ctx, "RGFW_window");
+    goto fail;
+  }
 
   /* using new_target to get the prototype is necessary when the class is
    * extended. */
@@ -41,7 +67,7 @@ js_window_constructor(JSContext* ctx, JSValueConst new_target, int argc, JSValue
   if(JS_IsException(obj))
     goto fail;
 
-  JS_SetOpaque(obj, w);
+  JS_SetOpaque(obj, win);
   return obj;
 
 fail:
