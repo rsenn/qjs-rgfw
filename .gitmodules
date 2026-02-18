@@ -1,0 +1,3 @@
+[submodule "RGFW"]
+	path = RGFW
+	url = git@github.com:ColleagueRiley/RGFW.git
