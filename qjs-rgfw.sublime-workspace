@@ -519,6 +519,201 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Ⓜ  RGFW_IMPLEMENTATION … — macro object\nⓂ  RGFW_OPENGL … — macro object\n—Ⓕ– js_rgfw_function ( ) { … } — function\n—Ⓕ– js_window_constructor ( ) { … } — function\n—Ⓕ– js_window_get ( ) { … } — function\n—Ⓕ– js_window_set ( ) { … } — function\n—Ⓕ– js_window_event_object ( ) { … } — function\n—Ⓕ– js_window_method ( ) { … } — function\n—Ⓕ– js_window_finalizer ( ) { … } — function\n—Ⓕ– js_rgfw_init ( ) { … } — function\n—Ⓕ– js_init_module_rgfw ( ) { … } — function\n—Ⓕ– js_init_module ( ) { … } — function",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix",
+				"name": "𝌆 Outline",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					2,
+					"outline_refresh",
+					{
+						"path": "/mnt/data/Projects/plot-cv/quickjs/qjs-rgfw/quickjs-rgfw.c",
+						"symkeys":
+						[
+							[
+								53,
+								72
+							],
+							[
+								81,
+								92
+							],
+							[
+								342,
+								358
+							],
+							[
+								769,
+								790
+							],
+							[
+								2686,
+								2699
+							],
+							[
+								3364,
+								3377
+							],
+							[
+								3751,
+								3773
+							],
+							[
+								5252,
+								5268
+							],
+							[
+								6268,
+								6287
+							],
+							[
+								10046,
+								10058
+							],
+							[
+								10671,
+								10690
+							],
+							[
+								10893,
+								10907
+							]
+						],
+						"symlist":
+						[
+							" Ⓜ  RGFW_IMPLEMENTATION … — macro object",
+							" Ⓜ  RGFW_OPENGL … — macro object",
+							"—Ⓕ– js_rgfw_function ( ) { … } — function",
+							"—Ⓕ– js_window_constructor ( ) { … } — function",
+							"—Ⓕ– js_window_get ( ) { … } — function",
+							"—Ⓕ– js_window_set ( ) { … } — function",
+							"—Ⓕ– js_window_event_object ( ) { … } — function",
+							"—Ⓕ– js_window_method ( ) { … } — function",
+							"—Ⓕ– js_window_finalizer ( ) { … } — function",
+							"—Ⓕ– js_rgfw_init ( ) { … } — function",
+							"—Ⓕ– js_init_module_rgfw ( ) { … } — function",
+							"—Ⓕ– js_init_module ( ) { … } — function"
+						]
+					},
+					"AwAAAAAAAAAAAAAA8AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGACAADik4IgIFJHRldfSU1QTEVNRU5UQVRJT04g4oCmIOKAlCBtYWNybyBvYmplY3QK4pOCICBSR0ZXX09QRU5HTCDigKYg4oCUIG1hY3JvIG9iamVjdArigJTikrvigJMganNfcmdmd19mdW5jdGlvbiAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX3dpbmRvd19jb25zdHJ1Y3RvciAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX3dpbmRvd19nZXQgKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc193aW5kb3dfc2V0ICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgrigJTikrvigJMganNfd2luZG93X2V2ZW50X29iamVjdCAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX3dpbmRvd19tZXRob2QgKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc193aW5kb3dfZmluYWxpemVyICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgrigJTikrvigJMganNfcmdmd19pbml0ICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgrigJTikrvigJMganNfaW5pdF9tb2R1bGVfcmdmdyAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX2luaXRfbW9kdWxlICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgAAAAAAAAAA8AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"outline_refresh",
+					{
+						"path": "/mnt/data/Projects/plot-cv/quickjs/qjs-rgfw/quickjs-rgfw.c",
+						"symkeys":
+						[
+							[
+								50,
+								69
+							],
+							[
+								78,
+								89
+							],
+							[
+								339,
+								355
+							],
+							[
+								766,
+								787
+							],
+							[
+								2683,
+								2696
+							],
+							[
+								3361,
+								3374
+							],
+							[
+								3748,
+								3770
+							],
+							[
+								5249,
+								5265
+							],
+							[
+								6265,
+								6284
+							],
+							[
+								10043,
+								10055
+							],
+							[
+								10668,
+								10687
+							],
+							[
+								10890,
+								10904
+							]
+						],
+						"symlist":
+						[
+							" Ⓜ  RGFW_IMPLEMENTATION … — macro object",
+							" Ⓜ  RGFW_OPENGL … — macro object",
+							"—Ⓕ– js_rgfw_function ( ) { … } — function",
+							"—Ⓕ– js_window_constructor ( ) { … } — function",
+							"—Ⓕ– js_window_get ( ) { … } — function",
+							"—Ⓕ– js_window_set ( ) { … } — function",
+							"—Ⓕ– js_window_event_object ( ) { … } — function",
+							"—Ⓕ– js_window_method ( ) { … } — function",
+							"—Ⓕ– js_window_finalizer ( ) { … } — function",
+							"—Ⓕ– js_rgfw_init ( ) { … } — function",
+							"—Ⓕ– js_init_module_rgfw ( ) { … } — function",
+							"—Ⓕ– js_init_module ( ) { … } — function"
+						]
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAABgAgAA4pOCICBSR0ZXX0lNUExFTUVOVEFUSU9OIOKApiDigJQgbWFjcm8gb2JqZWN0CuKTgiAgUkdGV19PUEVOR0wg4oCmIOKAlCBtYWNybyBvYmplY3QK4oCU4pK74oCTIGpzX3JnZndfZnVuY3Rpb24gKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc193aW5kb3dfY29uc3RydWN0b3IgKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc193aW5kb3dfZ2V0ICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgrigJTikrvigJMganNfd2luZG93X3NldCAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX3dpbmRvd19ldmVudF9vYmplY3QgKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc193aW5kb3dfbWV0aG9kICggKSB7IOKApiB9IOKAlCBmdW5jdGlvbgrigJTikrvigJMganNfd2luZG93X2ZpbmFsaXplciAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX3JnZndfaW5pdCAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24K4oCU4pK74oCTIGpzX2luaXRfbW9kdWxlX3JnZncgKCApIHsg4oCmIH0g4oCUIGZ1bmN0aW9uCuKAlOKSu+KAkyBqc19pbml0X21vZHVsZSAoICkgeyDigKYgfSDigJQgZnVuY3Rpb24AAAAAAAAAAPABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "quickjs-rgfw.c",
+			"settings":
+			{
+				"buffer_size": 11079,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "out"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					3,
+					"left_delete",
+					null,
+					"AwAAAAIAAAAAAAAAAgAAAAAAAAABAAAAdAEAAAAAAAAAAQAAAAAAAAABAAAAdQAAAAAAAAAAAAAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -532,6 +727,10 @@
 		"selected_items":
 		[
 			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
 				"install",
 				"Package Control: Install Package"
 			],
@@ -542,10 +741,6 @@
 			[
 				"qu",
 				"QuickView: Show Preview"
-			],
-			[
-				"out",
-				"Browse Mode: Outline (Right)"
 			],
 			[
 				"doxy",
@@ -874,6 +1069,170 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "./",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"current_file": "/mnt/data/Projects/plot-cv/quickjs/qjs-rgfw/quickjs-rgfw.c",
+							"function_name_status_row": 3,
+							"outline_rename_mode": false,
+							"show_line_column": "disabled",
+							"symkeys":
+							[
+								[
+									50,
+									69
+								],
+								[
+									78,
+									89
+								],
+								[
+									339,
+									355
+								],
+								[
+									766,
+									787
+								],
+								[
+									2683,
+									2696
+								],
+								[
+									3361,
+									3374
+								],
+								[
+									3748,
+									3770
+								],
+								[
+									5249,
+									5265
+								],
+								[
+									6265,
+									6284
+								],
+								[
+									10043,
+									10055
+								],
+								[
+									10668,
+									10687
+								],
+								[
+									10890,
+									10904
+								]
+							],
+							"symlist":
+							[
+								"Ⓜ  RGFW_IMPLEMENTATION … — macro object",
+								"Ⓜ  RGFW_OPENGL … — macro object",
+								"—Ⓕ– js_rgfw_function ( ) { … } — function",
+								"—Ⓕ– js_window_constructor ( ) { … } — function",
+								"—Ⓕ– js_window_get ( ) { … } — function",
+								"—Ⓕ– js_window_set ( ) { … } — function",
+								"—Ⓕ– js_window_event_object ( ) { … } — function",
+								"—Ⓕ– js_window_method ( ) { … } — function",
+								"—Ⓕ– js_window_finalizer ( ) { … } — function",
+								"—Ⓕ– js_rgfw_init ( ) { … } — function",
+								"—Ⓕ– js_init_module_rgfw ( ) { … } — function",
+								"—Ⓕ– js_init_module ( ) { … } — function"
+							],
+							"syntax": "Packages/Outline/outline.hidden-tmLanguage",
+							"tabs_extra_last_activated": 1783512780.41,
+							"tabs_extra_last_activated_sheet_index": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "quickjs-rgfw.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1317,
+								1317
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "./",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"function_name_status_row": 60,
+							"show_line_column": "disabled",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1783512780.46,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 758.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -890,20 +1249,29 @@
 		"cells":
 		[
 			[
+				2,
+				0,
+				3,
+				2
+			],
+			[
 				0,
 				0,
-				1,
-				1
+				2,
+				2
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.2,
+			0.8,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
+			0.5,
 			1.0
 		]
 	},
@@ -1476,7 +1844,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
