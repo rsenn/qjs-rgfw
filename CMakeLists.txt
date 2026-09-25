@@ -1,4 +1,4 @@
-project(qjs-rgfw C)
+project(qjs-rgfw VERSION 0.9 LANGUAGES C)
 
 cmake_minimum_required(VERSION 3.5)
 
